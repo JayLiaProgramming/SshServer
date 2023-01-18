@@ -54,8 +54,8 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\FxSsh\FxSsh\FxSsh.csproj">
-      <Project>{8de64233-03ad-4817-9fe9-3b3a3edfecb1}</Project>
+    <ProjectReference Include="..\FxSsh\FxSsh.csproj">
+      <Project>{ca55d468-c030-4d01-92ef-534ff129de09}</Project>
       <Name>FxSsh</Name>
     </ProjectReference>
   </ItemGroup>
